@@ -87,7 +87,7 @@ time_frame = st.selectbox("Select the time frame for your savings goals:",
 st.subheader("Additional Information")
 misc_info = st.text_area("Is there anything else you'd like to share about your financial situation?")
 
-# --------------------------------------------------------------------------
+# -------------------------------------------------------------------------
 # Store values to pass to prompt template
 financial_data = {
     "income": income,
