@@ -9,8 +9,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 
 
-# Fetch API keys from Streamlit secrets or import from constants.py 
-#below is required only for local execution -> uncomment next two lines when running locally
+# Fetch API keys from Streamlit secrets (done for streamlit deployment) or import from constants.py 
 OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 LANGCHAIN_API_KEY = st.secrets["LANGCHAIN_API_KEY"]
 
