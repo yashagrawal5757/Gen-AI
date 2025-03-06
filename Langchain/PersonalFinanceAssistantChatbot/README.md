@@ -1,5 +1,7 @@
 🚀 AI-powered chatbot to analyze personal finances, suggest budgeting strategies, and provide investment recommendations. Built with **Streamlit** and **LangChain**. 
 
+Link to Deployed Project: https://personalfinancechatbot-langchain.streamlit.app/
+
 ## 📌 Features
 ✅ **Analyze your income, expenses, and savings**  
 ✅ **Budget Breakdown**  
